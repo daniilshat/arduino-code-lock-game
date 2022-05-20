@@ -1,5 +1,5 @@
 # Arduino code lock game for quests
-[English] — версия README.md на английском языке
+[English](https://github.com/daniilshat/arduino-code-lock-game/blob/main/eng-README.md) — версия README.md на английском языке
 
 ## О проекте
 Это простая игрушка-квест для подросткового лагеря. По легенде ребятам удалось заполучить черный ящик исследователей и его надо открыть. Код состоит из 4 цифр. Сначала надо разгадать сами цифры, а потом подобрать правильный порядок.
@@ -31,7 +31,7 @@
 ## Схема
 Я настоящий фанат Амперки и их модулей Тройка. В этом проекте можно использовать и китайские элементы или модули от других производителей. Перед сборкой следует проверить правильность подключения ваших модулей.
 
-![]()
+![](https://raw.githubusercontent.com/daniilshat/arduino-code-lock-game/main/schematics/sch-3.png)
 
 ## Назначения кнопок клавиатуры
 - `Цифры` — отвечают за ввод цифр;
@@ -47,9 +47,9 @@
 ## Рабочий прототип
 Устройство собрано и полностью функционирует, выполняя свои задачи:
 
-![]()
+![](https://raw.githubusercontent.com/daniilshat/arduino-code-lock-game/main/img/prototype_1.png)
 
-![]()
+![](https://raw.githubusercontent.com/daniilshat/arduino-code-lock-game/main/img/prototype_2.png)
 
 ## План
 - [ ] Изготовить корпус 

@@ -1,5 +1,5 @@
 # Arduino code lock game for quests
-[Русский] — версия README.md на русском языке
+[Русский](https://github.com/daniilshat/arduino-code-lock-game/blob/main/README.md) — версия README.md на русском языке
 
 ## About project
 
@@ -18,4 +18,4 @@
 
 I am a real fan of the Amperka store and their Troyka modules. In this project, you can use ordinary Chinese elements or elements from other developers. Check up the schematic if you use other elements and modules.
 
-![]()
+![](https://raw.githubusercontent.com/daniilshat/arduino-code-lock-game/main/schematics/sch-3.png)
